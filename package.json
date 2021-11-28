@@ -1,0 +1,22 @@
+{
+  "name": "november-adventures",
+  "version": "1.0.0",
+  "description": "CLI study project to convert bitcoin into other currencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darlanso/november-adventures.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Darlan Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darlanso/november-adventures/issues"
+  },
+  "homepage": "https://github.com/darlanso/november-adventures#readme"
+}
